@@ -1,3 +1,12 @@
+let data = [
+    {
+        content: "123"
+    },
+    {
+        content: "123"
+    }
+]
+
 // 抓到網頁元素
 const button = document.querySelector(".add_todo")
 const new_todo = document.querySelector(".new_todo_value")
